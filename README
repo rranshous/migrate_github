@@ -1,0 +1,3 @@
+Script for helping me move my hg repos to github
+
+goes through the predefined repo names, which are the same as the project names on github, pulling / committing and than pushing to github using hg-git
